@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16696139266",
+    "firebase_url": "https://ambulancemobi-d613d.firebaseio.com",
+    "project_id": "ambulancemobi-d613d",
+    "storage_bucket": "ambulancemobi-d613d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16696139266:android:4306f7fef5d8b780b4111b",
+        "android_client_info": {
+          "package_name": "com.example.ambulancemobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16696139266-me95d3gddb3tr6bksn60tn4r5ksv7j1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambulancemobi",
+            "certificate_hash": "2d0b7f660b3dc43a30f3751c07bd13f46f7bb4e5"
+          }
+        },
+        {
+          "client_id": "16696139266-7padjqp71d23gq1bcfd90nqcc8vsboir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbKH1vuM7ZGnvzDeB6pYXj_L-_PkypcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16696139266-7padjqp71d23gq1bcfd90nqcc8vsboir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
